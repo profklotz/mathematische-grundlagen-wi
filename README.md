@@ -1,0 +1,1 @@
+# Mathematische Grundlagen der Wirtschaftsinformatik

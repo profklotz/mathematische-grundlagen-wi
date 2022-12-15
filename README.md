@@ -13,3 +13,7 @@ Im Ordner [`boolesche algebra`](./boolesche%20algebra/) befindet sich ein [Jupyt
 ## Zahlensysteme in Python
 
 Im Ordner [`zahlensysteme`](./zahlensysteme/) befindet sich ein [Jupyter Notebook](./zahlensysteme/Zahlensysteme%20in%20Python.ipynb), das die Umrechnung von Dezimalzahlen in andere Zahlensysteme und umgekehrt demonstriert. Die Umrechnung erfolgt dabei mit Hilfe von Python.
+
+## Teilbarkeit und Primzahlen in Python
+
+Im Ordner [`teilbarkeit`](./teilbarkeit/) befindet sich ein [Jupyter Notebook](./teilbarkeit/Teilbarkeit%20und%20Primzahlen.ipynb), das die Teilbarkeitsrelation, die Teilbarkeitsregeln, Primzahlen und Primzahlenzwillinge erklärt.
